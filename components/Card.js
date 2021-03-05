@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from '@/components/Link'
 
-const Card = ({ title, description, imgSrc, href }) => (
+const Card = ({ title, description, imgSrc, href, liveLink, sourceLink }) => (
   <div className="p-4 md:w-1/2 md" style={{ maxWidth: '544px' }}>
     <div className="h-full border-2 border-gray-200 border-opacity-60 dark:border-gray-700 rounded-md overflow-hidden">
       {href ? (
@@ -40,9 +40,23 @@ const Card = ({ title, description, imgSrc, href }) => (
             className="text-base font-medium leading-6 text-blue-500 hover:text-blue-600 dark:hover:text-blue-400"
             aria-label={`Link to ${title}`}
           >
-            Learn more &rarr;
+            {/* Learn more &rarr; */}
           </Link>
         )}
+        <div className="inline-flex">
+          <a
+            href={liveLink}
+            className="bg-yellow-500 hover:bg-yellow-700 text-white font-bold py-2 px-4 rounded"
+          >
+            Live Demo
+          </a>
+          <a
+            href={sourceLink}
+            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+          >
+            View Source
+          </a>
+        </div>
       </div>
     </div>
   </div>
