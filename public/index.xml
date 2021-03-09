@@ -7,9 +7,29 @@
       <language>en-us</language>
       <managingEditor>varun-kumar@live.com (Varun Kumar)</managingEditor>
       <webMaster>varun-kumar@live.com (Varun Kumar)</webMaster>
-      <lastBuildDate>Fri, 05 Mar 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 05 Aug 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="http://varunkumar.tech/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>http://varunkumar.tech/blog/joins-databse</guid>
+    <title>PostgreSQL Joins</title>
+    <link>http://varunkumar.tech/blog/joins-databse</link>
+    <description>In this tutorial, you will learn about various kinds of PostgreSQL joins including inner join, left join, right join, and full outer join.</description>
+    <pubDate>Thu, 05 Aug 2021 00:00:00 GMT</pubDate>
+    <author>varun-kumar@live.com (Varun Kumar)</author>
+    <category>database</category><category>postgresql</category>
+  </item>
+
+  <item>
+    <guid>http://varunkumar.tech/blog/postgres-django-connection</guid>
+    <title>How to use PostgreSQL with Django</title>
+    <link>http://varunkumar.tech/blog/postgres-django-connection</link>
+    <description>In this article, I will show you how to connect and use Postgres with Django a popular web framework for python.</description>
+    <pubDate>Tue, 09 Mar 2021 00:00:00 GMT</pubDate>
+    <author>varun-kumar@live.com (Varun Kumar)</author>
+    <category>postgresql</category><category>django</category><category>python</category>
+  </item>
+
   <item>
     <guid>http://varunkumar.tech/blog/install-postgres-ubuntu</guid>
     <title>How to install PostgreSQL on Ubuntu</title>
