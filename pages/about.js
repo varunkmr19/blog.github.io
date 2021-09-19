@@ -22,8 +22,8 @@ export default function About() {
             <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight">
               {siteMetadata.author}
             </h3>
-            <div className="text-gray-500 dark:text-gray-400">Final Year UG Student</div>
-            <div className="text-gray-500 dark:text-gray-400">Chandigarh University</div>
+            <div className="text-gray-500 dark:text-gray-400">Full Stack Engineer</div>
+            <div className="text-gray-500 dark:text-gray-400">Spyne.ai</div>
             <div className="flex pt-6 space-x-3">
               <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} />
               <SocialIcon kind="github" href={siteMetadata.github} />
@@ -32,6 +32,70 @@ export default function About() {
             </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
+            <p>
+              Hi, My name is Varun. I've graduated from Chandigarh University in 2021 with a major
+              in Computer Science and Engineering. Currently, I'm doing an Intership as a Full-Stack
+              Engineer at Spyne.ai which is a Saas based startup that focuses to redefine
+              photo-shoot and image processing workflows using the power of AI.
+            </p>
+            <p>
+              As a Full-Stack engineer I am responsible for developing and designing front end web
+              architecture and ensuring the respinsiveness of web applications. At the same time
+              writing highly scalable backend APIs.
+            </p>
+
+            <h2>
+              <strong>Experience</strong>
+            </h2>
+            <hr />
+            <p>
+              <strong>
+                <em>Spyne.ai</em>
+              </strong>{' '}
+              - <em>Full Stack Engineer</em>
+            </p>
+            <p>July 2021 - Present</p>
+            <ul>
+              <li> Writing highly scalable backend APIs in Flask</li>
+              <li> Optimized response time of some APIs by 150%</li>
+              <li> Designing reusable components in React</li>
+            </ul>
+            <p>
+              <strong>
+                <em>Virtusa</em>
+              </strong>{' '}
+              - <em>Intern Technology</em>
+            </p>
+            <p>May 2020 - July 2020</p>
+            <ul>
+              <li>
+                Worked as a back-end developer using Java-related technologies and frameworks.
+              </li>
+              <li>Used technologies include Java SE 8, Maven, Spring Boot, Hibernate and MySQL.</li>
+              <li>
+                Prototyped a web application that monitors and generates reports for the various
+                in-house training.
+              </li>
+            </ul>
+
+            <h2>
+              <strong>Skills</strong>
+            </h2>
+            <hr />
+            <p>
+              <strong>Programming Languages: </strong>Python, C++, JavaScript, and SQL
+            </p>
+            <p>
+              <strong>Frameworks: </strong>Django, Flask, and React
+            </p>
+            <p>
+              <strong>Misc: </strong>Azure Fundamentals, Linux, VSCode, Docker
+            </p>
+
+            <h2>
+              <strong>Github Stats</strong>
+            </h2>
+            <hr />
             <a href="https://github.com/varunkmr19/">
               <img
                 height="137px"
