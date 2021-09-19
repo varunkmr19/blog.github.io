@@ -7,17 +7,37 @@
       <language>en-us</language>
       <managingEditor>varun-kumar@live.com (Varun Kumar)</managingEditor>
       <webMaster>varun-kumar@live.com (Varun Kumar)</webMaster>
-      <lastBuildDate>Sat, 08 May 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 19 Sep 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="http://varunkumar.tech/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>http://varunkumar.tech/blog/django-sessions</guid>
+    <title>How Sessions work in Django</title>
+    <link>http://varunkumar.tech/blog/django-sessions</link>
+    <description>In this article, we will discuss what sessions are, how they are different from cookies and how they work with Django.</description>
+    <pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate>
+    <author>varun-kumar@live.com (Varun Kumar)</author>
+    <category>django</category><category>sessions</category><category>cookie</category>
+  </item>
+
   <item>
     <guid>http://varunkumar.tech/blog/django-staticfiles</guid>
     <title>How to manage static files in Django</title>
     <link>http://varunkumar.tech/blog/django-staticfiles</link>
     <description>In this article, we will discuss what static files are, how to manage them locally and at production in an Django application.</description>
-    <pubDate>Sat, 08 May 2021 00:00:00 GMT</pubDate>
+    <pubDate>Sun, 09 May 2021 00:00:00 GMT</pubDate>
     <author>varun-kumar@live.com (Varun Kumar)</author>
     <category>django</category>
+  </item>
+
+  <item>
+    <guid>http://varunkumar.tech/blog/postgres-django-connection</guid>
+    <title>How to use PostgreSQL with Django</title>
+    <link>http://varunkumar.tech/blog/postgres-django-connection</link>
+    <description>In this article, I will show you how to connect and use Postgres with Django a popular web framework for python.</description>
+    <pubDate>Mon, 05 Apr 2021 00:00:00 GMT</pubDate>
+    <author>varun-kumar@live.com (Varun Kumar)</author>
+    <category>postgresql</category><category>django</category><category>python</category>
   </item>
 
   <item>
@@ -28,16 +48,6 @@
     <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
     <author>varun-kumar@live.com (Varun Kumar)</author>
     <category>postgresql</category><category>ubuntu</category>
-  </item>
-
-  <item>
-    <guid>http://varunkumar.tech/blog/postgres-django-connection</guid>
-    <title>How to use PostgreSQL with Django</title>
-    <link>http://varunkumar.tech/blog/postgres-django-connection</link>
-    <description>In this article, I will show you how to connect and use Postgres with Django a popular web framework for python.</description>
-    <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
-    <author>varun-kumar@live.com (Varun Kumar)</author>
-    <category>postgresql</category><category>django</category><category>python</category>
   </item>
 
     </channel>
