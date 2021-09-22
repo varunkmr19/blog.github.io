@@ -3,7 +3,7 @@
     <channel>
       <title>Varun Kumar</title>
       <link>http://varunkumar.tech/blog</link>
-      <description>A blog created with Next.js and Tailwind.css</description>
+      <description>A blog where I share my experience working with different technologies as a Full-Stack Engineer</description>
       <language>en-us</language>
       <managingEditor>varun-kumar@live.com (Varun Kumar)</managingEditor>
       <webMaster>varun-kumar@live.com (Varun Kumar)</webMaster>
@@ -18,6 +18,16 @@
     <pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate>
     <author>varun-kumar@live.com (Varun Kumar)</author>
     <category>django</category><category>sessions</category><category>cookie</category>
+  </item>
+
+  <item>
+    <guid>http://varunkumar.tech/blog/vscode-shortcuts</guid>
+    <title>Top 10 Visual Studio Code Shortcuts That You Need to Know</title>
+    <link>http://varunkumar.tech/blog/vscode-shortcuts</link>
+    <description>Top 10 VS Code shortcuts for 10X productivity.</description>
+    <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
+    <author>varun-kumar@live.com (Varun Kumar)</author>
+    <category>vscode</category>
   </item>
 
   <item>
