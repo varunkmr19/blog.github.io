@@ -2,13 +2,13 @@
 title: Top 10 Visual Studio Code Shortcuts That You Need to Know
 date: '2021-06-22'
 tags: ['vscode']
-draft: true
+draft: false
 summary: 'Top 10 VS Code shortcuts for 10X productivity.'
 ---
 
 1. Goto Line (**CTRL + G**)
 
-![goto_line](/static/images/vscode_shortcuts/goto_line.gif)
+   ![goto_line](/static/images/vscode_shortcuts/goto_line.gif)
 
 2. Search in curret File (**CTRL + F**)
 
@@ -32,7 +32,7 @@ summary: 'Top 10 VS Code shortcuts for 10X productivity.'
 
 7. Toggle Markdown Preview (**CTRL + SHIFT + V**)
 
-![markdown_preview](/static/images/vscode_shortcuts/markdown_preview.gif)
+   ![markdown_preview](/static/images/vscode_shortcuts/markdown_preview.gif)
 
 8. Comment/Uncomment Lines (**CTRL + /**)
 
@@ -44,5 +44,4 @@ summary: 'Top 10 VS Code shortcuts for 10X productivity.'
 
 10. Split Editior Right (**CTRL + `\`**)
 
-
-    ![goto_line](/static/images/vscode_shortcuts/split_editor.gif)
+![goto_line](/static/images/vscode_shortcuts/split_editor.gif)
